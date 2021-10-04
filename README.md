@@ -7,4 +7,4 @@ The term **data product** is quite ambiguous so I wanted to address it with an a
 
 Anyway, here's the link to the article, I hope you enjoy. Any feedback is greatly appreciated.
 
-[What is a data product?](blog.terminusdb.com/what-is-a-data-product)
+[What is a data product?](https://blog.terminusdb.com/what-is-a-data-product)
